@@ -1,0 +1,12 @@
+body {
+    background-color: pink; /* Cor de fundo */
+    color: crimson; /* Cor da fonte */
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #007bff;
+}
